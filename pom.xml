@@ -9,7 +9,7 @@
  	<modules>
 		<module>sb-ex1-pom</module>
 		<module>sb-ex1t1-pom</module>
-		<module>sb-ex1-helloworld</module>
+		<!--<module>sb-ex1-helloworld</module>-->
 		<module>sb-ex2-pom</module>
 		<module>sb-support-client</module>
   </modules>
